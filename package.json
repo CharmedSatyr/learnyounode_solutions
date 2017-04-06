@@ -1,0 +1,35 @@
+{
+    "name": "learnyounode_solutions",
+    "version": "1.0.0",
+    "description": "My solutions to nodeschool.io's learnyounode module, saved here for reference.",
+    "main": "1-hello_world.js",
+    "dependencies": {
+        "concat-stream": "^1.6.0",
+        "fs": "0.0.1-security",
+        "http": "0.0.0",
+        "net": "^1.0.2",
+        "path": "^0.12.7",
+        "strftime": "^0.10.0",
+        "through2-map": "^3.0.0",
+        "url": "^0.11.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "learnyounode 1-hello_world.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/charmedsatyr/learnyounode_solutions.git"
+    },
+    "keywords": [
+        "nodeschool",
+        "learnyounode",
+        "node.js"
+    ],
+    "author": "CharmedSatyr",
+    "license": "GPL-3.0",
+    "bugs": {
+        "url": "https://github.com/charmedsatyr/learnyounode_solutions/issues"
+    },
+    "homepage": "https://github.com/charmedsatyr/learnyounode_solutions#readme"
+}
